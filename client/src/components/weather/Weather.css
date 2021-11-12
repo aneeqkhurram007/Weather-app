@@ -1,0 +1,58 @@
+#container {
+  padding: 1%;
+  border-radius: 6px;
+  display: flex;
+  width: auto;
+  height: 300px;
+  border-style: none;
+}
+
+#search {
+  width: auto;
+}
+#searchButton {
+  margin: 0px;
+  margin-left: 1%;
+}
+#imgContainer {
+  margin-top: 2%;
+  border-style: solid;
+  border-radius: 12px;
+  padding: 2%;
+  background: var(--bs-white);
+}
+.extraInfo {
+  margin-right: 2%;
+}
+.extraImg {
+  width: 64px;
+  height: 64px;
+}
+.myInfo {
+  display: flex;
+  margin-left: -50%;
+}
+#lastDiv {
+  margin-top: 1%;
+  border-style: solid;
+  border-radius: 8px;
+  padding: 2%;
+  background: var(--bs-gray-800);
+}
+.dateHead {
+  background: var(--bs-white);
+  color: var(--bs-gray-800);
+  width: 30%;
+}
+#info {
+  margin-top: 200px;
+  align-items: center;
+  text-align: center;
+}
+#headingSection {
+  width: 70%;
+  background: var(--bs-gray-800);
+}
+#headingSection h2 {
+  width: 60%;
+}
